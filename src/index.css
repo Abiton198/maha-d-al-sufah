@@ -1,0 +1,29 @@
+/* .navbar {
+  background-color: black;
+} */
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+margin-top: 55px;
+}
+
+.home{
+  background-image: url(./img/mahad.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 1;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.home-text {
+  font-size: 28px;
+  font-weight: 900;
+  color: red;
+}
